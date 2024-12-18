@@ -1,0 +1,10 @@
+num1,num2 = 25,5
+num1  =  num1  +  2
+num2  =  num1  /  num2
+num3  = num2%3
+num4 = num3**3
+num5 = num4//4
+print(f"num2 = {num2}")
+print(f"num3 = {num3}")
+print(f"num4 = {num4}")
+print(f"num5 = {num5}")
